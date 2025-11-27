@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!--
+<img scale=40%  alt="konar_logo" src="https://github.com/user-attachments/assets/d4adb5cc-f701-40f8-9764-77de774e55af" />
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+# Koło naukowe Robtyków  
+### Od 20 lat tworzymy innowacyjne rozwiązania i kształcimy kolejne pokolenia inżynierów
+**Nasze koło to młodzi ludzie, którzy tworzą przyszłość robotyki. Dzięki doświadczeniu w tworzeniu innowacyjnych projektów mieliśmy okazję stworzyć wiele interesujących urządzeń.**
